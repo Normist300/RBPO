@@ -1,0 +1,267 @@
+{
+    "module": "2",
+    "profiles": {
+        "light_0": {
+            "R": 100,
+            "G": 200,
+            "B": 0
+        },
+        "light_1": {
+            "R": 0,
+            "G": 0,
+            "B": 0
+        },
+        "light_2": {
+            "R": 0,
+            "G": 0,
+            "B": 240
+        },
+        "light_3": {
+            "R": 0,
+            "G": 0,
+            "B": 0
+        },
+        "light_4": {
+            "R": 0,
+            "G": 0,
+            "B": 0
+        },
+        "light_5": {
+            "R": 7,
+            "G": 0,
+            "B": 0
+        },
+        "light_6": {
+            "R": 0,
+            "G": 0,
+            "B": 0
+        },
+        "light_7": {
+            "R": 0,
+            "G": 0,
+            "B": 0
+        },
+        "light_8": {
+            "R": 0,
+            "G": 0,
+            "B": 0
+        },
+        "light_9": {
+            "R": 0,
+            "G": 0,
+            "B": 0
+        }
+    },
+    "dishs_profiles": {
+        "petri": {
+            "dish_0": {
+                "0": true,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_1": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_2": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_3": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": true,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_4": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": true,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_5": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": true,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_6": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": true,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_7": {
+                "0": false,
+                "1": false,
+                "2": true,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_8": {
+                "0": false,
+                "1": true,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_9": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_10": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_11": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            }
+        },
+        "flusk": {
+            "dish_0": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_1": {
+                "0": false,
+                "1": false,
+                "2": true,
+                "3": false,
+                "4": true,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_2": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": true,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            },
+            "dish_3": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": false,
+                "7": false,
+                "8": false,
+                "9": false
+            }
+        },
+        "tablet": {
+            "dish_0": {
+                "0": false,
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false,
+                "5": false,
+                "6": true,
+                "7": false,
+                "8": false,
+                "9": false
+            }
+        }
+    }
+}
