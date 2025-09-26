@@ -11,7 +11,7 @@ class XML():
             tree = ET.ElementTree(root)
             tree.write(self.filename)
         else:
-            print(f"Файл {filename} уже существует.")
+            print(f"Файл {self.filename} уже существует.")
 
     # Записать в файл новые данные из консоли
     def write_data_to_xml(self):
